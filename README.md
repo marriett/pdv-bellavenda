@@ -45,7 +45,7 @@ Para configurar o projeto em ambiente local, siga estas etapas:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/RenataUzeda/pdv-bellavenda
+   git clone git@github.com:marriett/pdv-bellavenda.git
    ```
 
 2. Navegue até a pasta do projeto:
